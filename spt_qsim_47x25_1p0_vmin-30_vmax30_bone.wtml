@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<Folder Name="spt_qsim_47x25_1p0_vmin-30_vmax30_bone">
+  <ImageSet Generic="False" DataSetType="Sky" BandPass="Visible" Name="spt_qsim_47x25_1p0_vmin-30_vmax30_bone" Url="http://pole.uchicago.edu/public/data/henning15/wwt/wwt_workshop_qsim_47x25_1p0_vmin-400_vmax400_bone/spt_qsim_47x25_1p0_vmin-30_vmax30_bone/{1}/{3}/{3}_{2}.png" BaseTileLevel="0" TileLevels="7" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False">
+    <Credits />
+    <CreditsUrl />
+    <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/wwt_workshop_qsim_47x25_1p0_vmin-400_vmax400_bone/spt_qsim_47x25_1p0_vmin_30_vmax30_bone.jpg</ThumbnailUrl>
+    <Description />
+  </ImageSet>
+</Folder>
