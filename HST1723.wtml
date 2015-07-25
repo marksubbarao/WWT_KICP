@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Folder Name="Image File" Group="Explorer">
+<Place Name="Image File" RA="17.3929310058667" Dec="34.20489596" ZoomLevel="0.27291713536" DataSetType="Sky" Opacity="100" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=387977145" Constellation="">
+ <ForegroundImageSet>
+ <ImageSet DataSetType="Sky" Name="Image File" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},387977145" TileLevels="5" WidthFactor="1" Rotation="-45.5100001339" Projection="Tan" FileType=".png" CenterY="34.20489596" CenterX="260.893965088" BottomsUp="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06822928384">
+<Credits></Credits>
+<CreditsUrl></CreditsUrl>
+<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=387977145</ThumbnailUrl>
+</ImageSet>
+</ForegroundImageSet>
+</Place>
+</Folder>
