@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<Folder MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="SGAS_HST" Group="Explorer" Searchable="False" Type="Earth">
+
+  <VersionDependent>false</VersionDependent>
+
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=46970354" Name="SGAS1723+3411" DataSetType="Sky" RA="17.393055555555556" Dec="34.205000000000005" Constellation="NA" Classification="Other" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.2733129728">
+
+    <Target>Undefined</Target>
+
+    <ForegroundImageSet>
+
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},46970354" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-45.32671914977" QuadTreeMap="0123" Projection="Tangent" Name="SGAS1723+3411" FileType=".png" CenterY="34.204327584360435" CenterX="260.89515615495878" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0683282432" MeanRadius="0">
+
+        <Credits />
+
+        <CreditsUrl />
+
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=46970354</ThumbnailUrl>
+
+      </ImageSet>
+
+    </ForegroundImageSet>
+
+  </Place>
+
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1705385895" Name="SGSS1110+6001" DataSetType="Sky" RA="11.170277777777777" Dec="64.99666666666667" Constellation="NA" Classification="Other" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27299217408">
+
+    <Target>Undefined</Target>
+
+    <ForegroundImageSet>
+
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1705385895" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="4.78024782847" QuadTreeMap="0123" Projection="Tangent" Name="SGSS1110+6001" FileType=".png" CenterY="64.996903904580307" CenterX="167.55829846352583" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06824804352" MeanRadius="0">
+
+        <Credits />
+
+        <CreditsUrl />
+
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1705385895</ThumbnailUrl>
+
+      </ImageSet>
+
+    </ForegroundImageSet>
+
+  </Place>
+
+</Folder>

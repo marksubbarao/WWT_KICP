@@ -1,0 +1,169 @@
+<!DOCTYPE>
+<html>
+<head>
+    <meta charset="utf-8" content="chrome=1, IE=edge" http-equiv="X-UA-Compatible" />
+    <title>WWT Web Client Images</title>
+    <script src="http://www.worldwidetelescope.org/scripts/wwtsdk.aspx"></script>
+    <script language="javascript">
+     // Create the WorldWide telescope object variable
+     var wwt;
+     // Create variables to hold the changeable settings
+     var bShowCrosshairs = true;
+    var bShowUI = true;
+    var bShowFigures = true;
+     // This function initializes the wwt object and registers the wwtReady event
+    // once the initialization is done the wwtReady event will be fired
+    function initialize() {
+        wwt = wwtlib.WWTControl.initControl("WWTCanvas");
+        wwt.add_ready(wwtReady);
+    }
+     // A simple function to toggle the settings
+    // This function is called from the checkbox entries setup in the html table
+     function toggleSetting(text) {
+        switch (text) {
+            case 'ShowUI':
+                bShowUI = !bShowUI;
+                wwt.hideUI(!bShowUI);
+                break;
+             case 'ShowCrosshairs':
+                bShowCrosshairs = !bShowCrosshairs;
+                wwt.settings.set_showCrosshairs(bShowCrosshairs);
+                break;
+             case 'ShowFigures':
+                bShowFigures = !bShowFigures;
+                wwt.settings.set_showConstellationFigures(bShowFigures);
+                break;
+        }
+    }
+    function toggle_lensing(){
+        v =  document.getElementById("foreground_select").value
+        if (v == "Lensed"){
+            document.getElementById("foreground_select").value = "Unlensed"
+            changeForeground()
+        }
+        else{
+            document.getElementById("foreground_select").value = "Lensed"
+            changeForeground()
+        }
+
+    }
+     // A function to change the view to different locations
+    // This function is called from the button entries in the html table
+ 
+    function changeForeground() {
+        text = document.getElementById("foreground_select").value
+        if (text =="Lensed" || text == "Unlensed"){
+            document.getElementById("Button").innerHTML = '<Button onclick = "toggle_lensing()">Toggle Lensing</button>'
+        }
+        else{
+            document.getElementById("Button").innerHTML = ""
+        }
+        switch (text) {
+            case 'Unlensed':
+                wwt.setForegroundImageByName('map_lmax2500_nside1024_interp0.3_method1_1_sim0_unlensed_map_cart');
+                break;
+             case 'Lensed':
+                wwt.setForegroundImageByName("map_lmax2500_nside1024_interp0.3_method1_1_sim0_lensed_map_cart");
+                break;
+             case 'Phi':
+                wwt.setForegroundImageByName("map_lmax2500_nside1024_interp0.3_method1_1_sim0_phi_map_cart" );
+                break;
+        }
+    }
+    function changeBackground() {
+        text = document.getElementById("background_select").value
+        document.getElementById("notice").innerHTML = text
+
+        switch (text) {
+            case 'Unlensed':
+                wwt.setBackgroundImageByName('map_lmax2500_nside1024_interp0.3_method1_1_sim0_unlensed_map_cart');
+                break;
+             case 'Lensed':
+                wwt.setBackgroundImageByName("map_lmax2500_nside1024_interp0.3_method1_1_sim0_lensed_map_cart");
+                break;
+             case 'Phi':
+                wwt.setBackgroundImageByName("map_lmax2500_nside1024_interp0.3_method1_1_sim0_phi_map_cart" );
+                break;
+        }
+    }
+    function changeOpacity(){
+        backAlpha = parseFloat(document.getElementById("opacity").value)
+        foreAlpha = 1-backAlpha
+        console.log(foreAlpha)
+        wwt.wwtControl.setForegroundOpacity(foreAlpha)
+    }
+     // The wwtReady function is called by the WWT Web Control software
+    // This function sets up the wwt object, and the initial defaults
+     function wwtReady() {
+        wwt.settings.set_showCrosshairs(bShowCrosshairs);
+        wwt.settings.set_showConstellationFigures(bShowFigures);
+        wwt.hideUI(!bShowUI);
+         wwt.settings.set_showConstellationBoundries(true);
+         // Load in the image collection file
+        wwt.loadImageCollection("ZhenHou.wtml");
+        changeForeground();
+    }
+     </script>
+ </head>
+ <body onload="initialize()" >
+ <!-- The body section creates a table with two columns. The first contains the -->
+<!-- WWTControl object that is the WWT web client. And the second a table within-->
+<!-- the table, containing some buttons and checkboxes.-->
+ <iframe src='http://worldwidetelescope.org/WebControl.aspx?v=5.0.23#{"settings":"pictures=false,figures=false,galacticGrid=false,equatorialGrid=false,crosshairs=false,galacticPlaneMode=true","wtml":"https://raw.githubusercontent.com/marksubbarao/WWT_KICP/master/ZhenHou.wtml","display":"Cross fade"}' width = "100%" height = "100%"></iframe>
+ <!--<table border="2" bgcolor="lightgrey">
+    <tr><td>
+       <div id="WorldWideTelescopeControlHost">
+           <div id="WWTCanvas" style="width: 750px; height: 750px; border-style: none; border-width: 0px;">
+           </div>
+    </div>
+
+    </td><td>
+     <table border="2" cellspacing="4" cellpadding="4" bgcolor="gold">
+    
+    <tr>
+    <th colspan="2"><h2>WWT Web Client Images</h2></th>
+    </tr>
+    <tr>
+    <th colspan = "2"> 
+    Foreground: <select name = "Foreground" id = "foreground_select" onchange = "changeForeground()">
+        <option value="Unlensed">Unlensed</option>
+        <option value = "Lensed">Lensed</option>
+        <option value = "Phi">Phi</oprion>
+    </select>
+    <div id = "Button">
+    </div>
+    </th></tr>
+    <th colspan = "2"> 
+    Background: <select name = "Background" id = "background_select" onfocus = "changeBackground()">
+        <option value="Unlensed">Unlensed</option>
+        <option value = "Lensed">Lensed</option>
+        <option value = "Phi">Phi</oprion>
+    </select>
+    </th></tr>
+    <tr>
+    <th colspan = "2"> 
+        <input type = "range" name = "Opacity" min = "0" max = "1" step = "0.01" id = "opacity" onchange = "changeOpacity()" />
+    </th></tr>
+     <tr>
+    <th colspan = "2">Settings</th>
+    </tr>
+       <tr>
+        <td> Show UI </td>
+        <td> <input id="UI" type="checkbox" checked="checked" onclick="toggleSetting('ShowUI');"/></td>
+     </tr>
+    
+    <tr>
+        <td> Show Crosshairs</td>
+        <td> <input id="Crosshairs" type="checkbox" checked="checked" onclick="toggleSetting('ShowCrosshairs');"/></td>
+     </tr>
+     <tr>
+        <td> Show Figures </td>
+        <td> <input id="Figures" type="checkbox" checked="checked" onclick="toggleSetting('ShowFigures');"/></td>
+     </tr>
+</table>
+</td>
+</tr>
+</table>-->
+ </body>
+</html>
+
