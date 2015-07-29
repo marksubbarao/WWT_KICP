@@ -4,30 +4,30 @@
   <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="Unlensed CMB" DataSetType="Sky" RA="0" Dec="0" Constellation="" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="360" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="360">
     <Target>Custom</Target>
     <ForegroundImageSet>
-      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://draco.adlerplanetarium.org/KICP/map_lmax2500_nside1024_interp0.3_method1_1_sim0_unlensed_map_cart/{1}/{3}/{3}_{2}.png" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="Unlensed CMB" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" ReferenceFrame="Sky" MeanRadius="0">
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://draco.adlerplanetarium.org/KICP/map_lmax9000_nside4096_interp0.3_method1_1_sim0_unlensed_map_Toast_20152807-161518/Pyramid/{1}\{2}\L{1}X{2}Y{3}.Png" TileLevels="6" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="Unlensed CMB" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" ReferenceFrame="Sky" MeanRadius="0">
         <Credits>Zhen Hou</Credits>
         <CreditsUrl />
-        <ThumbnailUrl>http://draco.adlerplanetarium.org/KICP/map_lmax2500_nside1024_interp0.3_method1_1_sim0_unlensed_map_cart.jpg</ThumbnailUrl>
+        <ThumbnailUrl>http://draco.adlerplanetarium.org/KICP/map_lmax9000_nside4096_interp0.3_method1_1_sim0_unlensed_map_Toast_20152807-161518/map_lmax9000_nside4096_interp0.3_method1_1_sim0_unlensed_map.jpeg</ThumbnailUrl>
       </ImageSet>
     </ForegroundImageSet>
   </Place>
   <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="Lensed CMB" DataSetType="Sky" RA="0" Dec="0" Constellation="" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="360" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="360">
     <Target>Custom</Target>
     <ForegroundImageSet>
-      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://draco.adlerplanetarium.org/KICP/map_lmax2500_nside1024_interp0.3_method1_1_sim0_lensed_map_cart/{1}/{3}/{3}_{2}.png" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="Lensed CMB" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" ReferenceFrame="Sky" MeanRadius="0">
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://draco.adlerplanetarium.org/KICP/map_lmax9000_nside4096_interp0.3_method1_1_sim0_lensed_map_Toast_20152807-161139/Pyramid/{1}\{2}\L{1}X{2}Y{3}.Png" TileLevels="6" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="Lensed CMB" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" ReferenceFrame="Sky" MeanRadius="0">
         <Credits>Zhen Hou</Credits>
         <CreditsUrl />
-        <ThumbnailUrl>http://draco.adlerplanetarium.org/KICP/map_lmax2500_nside1024_interp0.3_method1_1_sim0_lensed_map_cart.jpg</ThumbnailUrl>
+        <ThumbnailUrl>http://draco.adlerplanetarium.org/KICP/map_lmax9000_nside4096_interp0.3_method1_1_sim0_lensed_map_Toast_20152807-161139/map_lmax9000_nside4096_interp0.3_method1_1_sim0_lensed_map.jpeg</ThumbnailUrl>
       </ImageSet>
     </ForegroundImageSet>
   </Place>
   <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="Integrated Gravitational Potential" DataSetType="Sky" RA="0" Dec="0" Constellation="" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="360" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="360">
     <Target>Custom</Target>
     <ForegroundImageSet>
-      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://draco.adlerplanetarium.org/KICP/map_lmax2500_nside1024_interp0.3_method1_1_sim0_phi_map_cart/{1}/{3}/{3}_{2}.png" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="Integrated Gravitational Potential" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" ReferenceFrame="Sky" MeanRadius="0">
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://draco.adlerplanetarium.org/KICP/map_lmax9000_nside4096_interp0.3_method1_1_sim0_phi_map_Toast_20152807-161333/Pyramid/{1}\{2}\L{1}X{2}Y{3}.Png" TileLevels="6" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="Integrated Gravitational Potential" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" ReferenceFrame="Sky" MeanRadius="0">
         <Credits>Zhen Hou</Credits>
         <CreditsUrl />
-        <ThumbnailUrl>http://draco.adlerplanetarium.org/KICP/map_lmax2500_nside1024_interp0.3_method1_1_sim0_phi_map_cart.jpg</ThumbnailUrl>
+        <ThumbnailUrl>http://draco.adlerplanetarium.org/KICP/map_lmax9000_nside4096_interp0.3_method1_1_sim0_phi_map_Toast_20152807-161333/map_lmax9000_nside4096_interp0.3_method1_1_sim0_phi_map.jpeg</ThumbnailUrl>
       </ImageSet>
     </ForegroundImageSet>
   </Place>
