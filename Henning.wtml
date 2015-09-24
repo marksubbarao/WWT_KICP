@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Folder MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="Henning" Group="Explorer" Searchable="False" Type="Earth">
+  <VersionDependent>false</VersionDependent>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/sptpol500d_smapU_1p0_vmin-50_vmax50_planck.jpeg" Name="sptpol500d_smapE_1p0_vmin-50_vmax50_planck" DataSetType="Sky" RA="0" Dec="0" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="0" AngularSize="0">
+    <Target>Undefined</Target>
+    <BackgroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Microwave" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" TileLevels="7" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="sptpol500d_smapE_1p0_vmin-50_vmax50_planck" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="90" ReferenceFrame="Sky" MeanRadius="0">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/sptpol500d_smapE_1p0_vmin-50_vmax50_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </BackgroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapQ/sptpol500d_smapQ_1p0_vmin-50_vmax50_planck.jpeg" Name="sptpol500d_smapQ_1p0_vmin-50_vmax50_planck" DataSetType="Sky" RA="0" Dec="0" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="0" AngularSize="0">
+    <Target>Undefined</Target>
+    <BackgroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Microwave" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapQ/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" TileLevels="7" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="sptpol500d_smapQ_1p0_vmin-50_vmax50_planck" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="90" ReferenceFrame="Sky" MeanRadius="0">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapQ/sptpol500d_smapQ_1p0_vmin-50_vmax50_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </BackgroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapT/sptpol500d_smapT_1p0_vmin-800_vmax800_planck.jpeg" Name="sptpol500d_smapT_1p0_vmin-800_vmax800_planck" DataSetType="Sky" RA="0" Dec="0" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="0" AngularSize="0">
+    <Target>Undefined</Target>
+    <BackgroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Microwave" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapT/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" TileLevels="7" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="sptpol500d_smapT_1p0_vmin-800_vmax800_planck" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="90" ReferenceFrame="Sky" MeanRadius="0">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapT/\sptpol500d_smapT_1p0_vmin-800_vmax800_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </BackgroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/sptpol500d_smapU_1p0_vmin-50_vmax50_planck.jpeg" Name="sptpol500d_smapU_1p0_vmin-50_vmax50_planck" DataSetType="Sky" RA="0" Dec="0" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="0" AngularSize="0">
+    <Target>Undefined</Target>
+    <BackgroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Microwave" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" TileLevels="7" WidthFactor="1" Sparse="False" Rotation="0" QuadTreeMap="" Projection="Toast" Name="sptpol500d_smapU_1p0_vmin-50_vmax50_planck" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="90" ReferenceFrame="Sky" MeanRadius="0">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/sptpol500d_smapU_1p0_vmin-50_vmax50_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </BackgroundImageSet>
+  </Place>
+</Folder>

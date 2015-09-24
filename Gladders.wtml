@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<Folder MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="Gladders" Group="Explorer" Searchable="False" Type="Earth">
+  <VersionDependent>false</VersionDependent>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=196447050" Name="HST004" DataSetType="Sky" RA="0.0811111111111111" Dec="-1.048888888888889" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13640450048">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},196447050" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="41.22942863478" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="-1.0488073012716488" CenterX="1.2201471105674722" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03410112512" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=196447050</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=229283578" Name="HST0146" DataSetType="Sky" RA="1.7825" Dec="-9.4891666666666659" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.1367187456">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},229283578" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="8.58882565844" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="-9.4909133102936885" CenterX="26.733640409440586" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0341796864" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=229283578</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1901071224" Name="HST0333" DataSetType="Sky" RA="3.5508333333333333" Dec="-6.855833333333333" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13672382464">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1901071224" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-71.29687394842" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="-6.8531965263888432" CenterX="53.262720482918837" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03418095616" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1901071224</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1390972119" Name="HST0851" DataSetType="Sky" RA="8.86111111111111" Dec="33.513888888888886" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27328479232">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1390972119" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-22.03984422025" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="33.514318720994616" CenterX="132.91428332252246" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06832119808" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1390972119</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=625819833" Name="HST0915" DataSetType="Sky" RA="9.2611111111111111" Dec="38.446388888888883" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27336802304">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},625819833" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-35.0581430822" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="38.445039158993922" CenterX="138.91642169176578" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06834200576" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=625819833</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=928083152" Name="HST0928" DataSetType="Sky" RA="9.4677777777777781" Dec="20.52472222222222" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13633978368">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},928083152" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="84.77410010256" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="20.524171331186679" CenterX="142.01592587817879" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03408494592" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=928083152</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=232857746" Name="HST0952" DataSetType="Sky" RA="9.8775000000000013" Dec="34.586944444444448" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.1363410944">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},232857746" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-6.2433594756" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="34.586856055421073" CenterX="148.1653018466869" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0340852736" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=232857746</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=768291869" Name="HST0957" DataSetType="Sky" RA="9.96111111111111" Dec="5.1580555555555563" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13675347968">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},768291869" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-65.12749923764" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="5.15596652294181" CenterX="149.41882828261618" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03418836992" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=768291869</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=992363259" Name="HST1002" DataSetType="Sky" RA="10.04111111111111" Dec="20.5125" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27309932544">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},992363259" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-46.82068930316" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="20.512782901244719" CenterX="150.61668541170116" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06827483136" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=992363259</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1513285278" Name="HST1050" DataSetType="Sky" RA="10.844722222222222" Dec="0.27805555555555556" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.1363017728">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1513285278" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-28.91884645038" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="0.28036767645506744" CenterX="162.66886399394423" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0340754432" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1513285278</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1106470247" Name="HST1110" DataSetType="Sky" RA="11.170277777777777" Dec="64.99666666666667" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27337162752">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1106470247" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-85.17901154985" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="64.997652649864207" CenterX="167.55782257341238" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06834290688" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1106470247</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1011414760" Name="HST1115" DataSetType="Sky" RA="11.251111111111111" Dec="16.768055555555556" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13639942144">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1011414760" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-13.394270155" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="16.767378145235263" CenterX="168.76628772265929" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03409985536" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1011414760</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1840791047" Name="HST1138" DataSetType="Sky" RA="11.635833333333332" Dec="27.900833333333331" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.1363566592">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1840791047" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="4.84264718382" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="27.903137441329847" CenterX="174.53640046953049" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0340891648" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1840791047</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=2027007170" Name="HST1152" DataSetType="Sky" RA="11.88" Dec="9.4974999999999987" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27298988032">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},2027007170" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-35.75393326222" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="9.4994861999164382" CenterX="178.20063088678413" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06824747008" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=2027007170</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1173778947" Name="HST1153" DataSetType="Sky" RA="11.866944444444444" Dec="33.220555555555556" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27318779904">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1173778947" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-34.61816593962" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="33.222912736211754" CenterX="178.00527121089038" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06829694976" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1173778947</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=232857746" Name="HST1156" DataSetType="Sky" RA="9.8775000000000013" Dec="34.586944444444448" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.1363410944">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},232857746" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-6.2433594756" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="34.586938211016985" CenterX="148.16531686499951" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0340852736" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=232857746</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1446881388" Name="HST1207" DataSetType="Sky" RA="12.12638888888889" Dec="52.920833333333334" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27284733952">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1446881388" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-31.17252374418" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="52.922179762810842" CenterX="181.89672387289588" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06821183488" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1446881388</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=705656726" Name="HST1329" DataSetType="Sky" RA="13.492777777777777" Dec="22.705277777777777" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27166666666666667" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27214938112">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},705656726" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="6.3306772637" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="22.710533079306771" CenterX="202.39251247612469" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06803734528" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=705656726</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=256631036" Name="HST1336" DataSetType="Sky" RA="13.600277777777777" Dec="-3.5294444444444446" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.1364860928">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},256631036" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-10.77858426794" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="-3.5299827973214275" CenterX="204.00072703549333" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.0341215232" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=256631036</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1409740251" Name="HST1420" DataSetType="Sky" RA="14.343888888888889" Dec="39.921944444444442" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27310686208">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1409740251" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-25.9119844008" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="39.924247540199744" CenterX="215.15896248854835" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06827671552" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1409740251</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1448566889" Name="HST1456" DataSetType="Sky" RA="14.933055555555555" Dec="57.045555555555552" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.272891904">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1448566889" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-29.01341148968" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="57.045403768328661" CenterX="223.99662643945283" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.068222976" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1448566889</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1399296010" Name="HST1522" DataSetType="Sky" RA="15.381388888888889" Dec="25.584999999999997" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27317600256">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1399296010" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-24.52413058578" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="25.585664362623042" CenterX="230.72378965967206" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06829400064" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1399296010</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1086395343" Name="HST1527" DataSetType="Sky" RA="15.462499999999999" Dec="6.8825" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13635141632">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1086395343" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-19.76404117092" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="6.8813544511831015" CenterX="231.93718704073271" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03408785408" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1086395343</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1229395890" Name="HST1531" DataSetType="Sky" RA="15.519166666666667" Dec="34.234444444444442" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27294728192">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1229395890" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="52.40226485078" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="34.23631628252344" CenterX="232.78781925879565" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06823682048" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1229395890</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=509613415" Name="HST1604" DataSetType="Sky" RA="16.069444444444443" Dec="22.731111111111108" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13649133568">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},509613415" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="6.66218025668" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="22.731824146181612" CenterX="241.04152339985919" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03412283392" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=509613415</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=274334459" Name="HST1621" DataSetType="Sky" RA="16.358611111111113" Dec="6.1236111111111109" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13686964224">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},274334459" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-80.10247892697" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="6.1231985301519041" CenterX="245.37874919134887" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03421741056" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=274334459</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1905524968" Name="HST1632" DataSetType="Sky" RA="16.536944444444448" Dec="35.0075" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.13666666666666666" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.13708967936">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1905524968" TileLevels="4" WidthFactor="1" Sparse="False" Rotation="-76.5534563711" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="35.006898655644726" CenterX="248.04998505357398" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.03427241984" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1905524968</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=387977145" Name="HST1723" DataSetType="Sky" RA="17.393055555555556" Dec="34.205000000000005" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27291713536">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},387977145" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-45.5100001339" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="34.204268781680419" CenterX="260.8951917502078" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06822928384" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=387977145</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=154600016" Name="HST2243" DataSetType="Sky" RA="22.723611111111108" Dec="-9.5955555555555563" Constellation="NA" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.27333333333333332" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.27311439872">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},154600016" TileLevels="5" WidthFactor="1" Sparse="False" Rotation="-57.12241148412" QuadTreeMap="0123" Projection="Tangent" Name="Image File" FileType=".png" CenterY="-9.5977495041054333" CenterX="340.85692617509221" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.06827859968" MeanRadius="0">
+        <Credits />
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=154600016</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+</Folder>

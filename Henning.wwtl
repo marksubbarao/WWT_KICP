@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FileCabinet HeaderSize="0x000000cc">
+  <Files>
+    <File Name="6e88c518-e51f-4ee0-8f6d-9efb6458769b.wwtxml" Size="5879" Offset="0" />
+  </Files>
+</FileCabinet>﻿<?xml version='1.0' encoding='UTF-8'?>
+<LayerContainer ID="6e88c518-e51f-4ee0-8f6d-9efb6458769b">
+  <ReferenceFrames>
+    <ReferenceFrame Name="ISS" Parent="Earth" ReferenceFrameType="Orbital" Reference="Custom" ParentsRoationalBase="False" MeanRadius="130" Oblateness="0" Heading="0" Pitch="0" Roll="0" Scale="1" Tilt="0" Translation="0, 0, 0" RotationalPeriod="0" ZeroRotationDate="0" RepresentativeColor="NamedColor:White" ShowAsPoint="False" ShowOrbitPath="False" StationKeeping="True" SemiMajorAxis="6782866.83433744" SemiMajorAxisScale="Meters" Eccentricity="0.0005567" Inclination="51.6443" ArgumentOfPeriapsis="311.2859" LongitudeOfAscendingNode="313.1266" MeanAnomolyAtEpoch="48.7814" MeanDailyMotion="5594.8097952" Epoch="2457289.0214052" />
+    <ReferenceFrame Name="Henning" Parent="Sky" ReferenceFrameType="FixedSherical" Reference="Identity" ParentsRoationalBase="False" MeanRadius="1000" Oblateness="0" Heading="0" Pitch="0" Roll="0" Scale="1" Tilt="0" Translation="0, 0, 0" Lat="0" Lng="0" Altitude="0" RotationalPeriod="0" ZeroRotationDate="0" RepresentativeColor="NamedColor:White" ShowAsPoint="False" ShowOrbitPath="False" StationKeeping="True" />
+  </ReferenceFrames>
+  <Layers>
+    <Layer Id="00000001-0002-0003-0405-060708090a0b" Type="TerraViewer.ISSLayer" Name="ISS Model  (Toshiyuki Takahei)" ReferenceFrame="ISS" Color="NamedColor:White" Opacity="1" StartTime="1/1/0001 12:00:00 AM" EndTime="12/31/9999 11:59:59 PM" FadeSpan="00:00:00" FadeType="None" FlipV="True" FlipHandedness="False" Smooth="True" TwoSidedGeometry="False" Heading="0" Pitch="0" Roll="0" Scale="1, 1, 1" Translate="0, 0, 0" LightID="0" Obj="False" />
+    <Layer Id="c980085b-0039-4e53-98f5-0a3f214f48a7" Type="TerraViewer.ImageSetLayer" Name="sptpol500d_smapE_1p0_vmin-50_vmax50_planck" ReferenceFrame="Henning" Color="NamedColor:White" Opacity="1" StartTime="1/1/0001 12:00:00 AM" EndTime="12/31/9999 11:59:59 PM" FadeSpan="00:00:00" FadeType="None" OverrideDefault="False">
+      <ImageSet Generic="False" DataSetType="Sky" BandPass="Microwave" Name="sptpol500d_smapE_1p0_vmin-50_vmax50_planck" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" DemUrl="" BaseTileLevel="0" TileLevels="7" BaseDegreesPerTile="90" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sky">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/sptpol500d_smapE_1p0_vmin-50_vmax50_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </Layer>
+    <Layer Id="d1295fc6-f222-4b6f-99fa-3775c5c5239e" Type="TerraViewer.ImageSetLayer" Name="sptpol500d_smapQ_1p0_vmin-50_vmax50_planck" ReferenceFrame="Henning" Color="NamedColor:White" Opacity="1" StartTime="1/1/0001 12:00:00 AM" EndTime="12/31/9999 11:59:59 PM" FadeSpan="00:00:00" FadeType="None" OverrideDefault="False">
+      <ImageSet Generic="False" DataSetType="Sky" BandPass="Microwave" Name="sptpol500d_smapQ_1p0_vmin-50_vmax50_planck" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapQ/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" DemUrl="" BaseTileLevel="0" TileLevels="7" BaseDegreesPerTile="90" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sky">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapQ/sptpol500d_smapQ_1p0_vmin-50_vmax50_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </Layer>
+    <Layer Id="65e768d2-762c-4fbd-bfb6-2609f129f7ab" Type="TerraViewer.ImageSetLayer" Name="sptpol500d_smapT_1p0_vmin-800_vmax800_planck" ReferenceFrame="Henning" Color="NamedColor:White" Opacity="1" StartTime="1/1/0001 12:00:00 AM" EndTime="12/31/9999 11:59:59 PM" FadeSpan="00:00:00" FadeType="None" OverrideDefault="False">
+      <ImageSet Generic="False" DataSetType="Sky" BandPass="Microwave" Name="sptpol500d_smapT_1p0_vmin-800_vmax800_planck" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapT/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" DemUrl="" BaseTileLevel="0" TileLevels="7" BaseDegreesPerTile="90" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sky">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapT/\sptpol500d_smapT_1p0_vmin-800_vmax800_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </Layer>
+    <Layer Id="9e66a3bf-b5e8-4381-916d-d9b6572d0506" Type="TerraViewer.ImageSetLayer" Name="sptpol500d_smapU_1p0_vmin-50_vmax50_planck" ReferenceFrame="Henning" Color="NamedColor:White" Opacity="1" StartTime="1/1/0001 12:00:00 AM" EndTime="12/31/9999 11:59:59 PM" FadeSpan="00:00:00" FadeType="None" OverrideDefault="False">
+      <ImageSet Generic="False" DataSetType="Sky" BandPass="Microwave" Name="sptpol500d_smapU_1p0_vmin-50_vmax50_planck" Url="http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/Pyramid/{1}/{2}/L{1}X{2}Y{3}.Png" DemUrl="" BaseTileLevel="0" TileLevels="7" BaseDegreesPerTile="90" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sky">
+        <ThumbnailUrl>http://pole.uchicago.edu/public/data/henning15/wwt/sptpol500d_smapU/sptpol500d_smapU_1p0_vmin-50_vmax50_planck.jpeg</ThumbnailUrl>
+      </ImageSet>
+    </Layer>
+  </Layers>
+</LayerContainer>
